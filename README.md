@@ -1,6 +1,6 @@
-[![license](https://img.shields.io/github/license/plus3it/trellix-agent-formula.svg)](./LICENSE)
-[![Travis-CI Build Status](https://travis-ci.org/plus3it/trellix-agent-formula.svg)](https://travis-ci.org/plus3it/trellix-agent-formula)
-[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/plus3it/trellix-agent-formula?branch=master&svg=true)](https://ci.appveyor.com/project/plus3it/trellix-agent-formula)
+[![license](https://img.shields.io/github/license/MetroStar/trellix-agent-formula.svg)](./LICENSE)
+[![Travis-CI Build Status](https://travis-ci.org/MetroStar/trellix-agent-formula.svg)](https://travis-ci.org/MetroStar/trellix-agent-formula)
+[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/MetroStar/trellix-agent-formula?branch=master&svg=true)](https://ci.appveyor.com/project/MetroStar/trellix-agent-formula)
 
 # trellix-agent-formula
 
